@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi Humans!
+Stimandrew here! I very want learning to write programs. 
